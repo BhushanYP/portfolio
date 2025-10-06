@@ -6,22 +6,23 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 - 🔭 Currently working on **Data Science & Analytics projects** using Python, Pandas, and Machine Learning.  
 - 🌱 Continuously learning **Advanced Analytics, Machine Learning, and Big Data Tools**.  
 - 💬 Ask me about **Data Cleaning, Data Visualization, and Statistical Analysis**.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhushan-patil-381601293/) | [Email](patilbhushan1086.com)
 
 ---
 
 ## 🛠 Skills
 
+**Technical:** Statistcs
 **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), Excel, Power BI, Tableau  
 **Databases & SQL:** MySQL, PostgreSQL, SQLite  
 **Machine Learning:** Scikit-Learn, Regression, Classification, Clustering  
-**Other Tools:** Git, GitHub, Jupyter Notebook, Google Colab
+**Other Tools:** Jupyter Notebook, Google Colab
 
 ---
 
 ## 📊 Projects
 
-### 1. **Sales Data Analysis**
+### 1. **Excel**
 - Analyzed sales data to identify trends and improve business decisions.  
 - Tools: Python, Pandas, Seaborn.  
 - [GitHub Repo](https://github.com/yourusername/sales-data-analysis)
