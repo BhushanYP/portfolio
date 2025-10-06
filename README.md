@@ -5,7 +5,6 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 
 - 🔭 Currently working on **Data Science & Analytics projects** using Python, Pandas, and Machine Learning.  
 - 🌱 Continuously learning **Advanced Analytics, Machine Learning, and Big Data Tools**.  
-- 💬 Ask me about **Data Cleaning, Data Visualization, and Statistical Analysis**.  
 
 ---
 
@@ -21,8 +20,16 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 
 ## 📊 Projects
 
-### 1. **Excel**
- 
+### 1. **Grid Stability Prediction using Machine Learning**
+- This project focuses on predicting power grid stability based on sensor-like simulation data of producers and consumers in an electrical grid.
+- The goal is to anticipate unstable states before they occur — enabling early maintenance and preventing power failures.
+
+### **Problem Statement:**
+- In modern energy grids, maintaining stability between producers (power plants) and consumers (loads) is critical.
+- Even small fluctuations in parameters like reaction time, nominal power, or price elasticity can cause instability. 
+- This project applies machine learning to predict whether the grid is in a stable or unstable state — enabling proactive rerouting or maintenance before customer impact.
+
+**Project Details:** https://github.com/BhushanYP/Grids_Stability_ML_Model
 
 ### 2. **Python**
 
