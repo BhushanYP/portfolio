@@ -20,7 +20,18 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 
 ## 📊 Projects
 
-### 1. **Grid Stability Prediction using Machine Learning**
+### 1. **https://github.com/BhushanYP/Retail-Sales-Analytics-Dashboard**
+- This project showcases a complete data analysis pipeline — from raw CSV files to interactive dashboards — using Python, MySQL, and Tableau Public.
+- The dataset represents a multi-store retail company dealing in bikes and accessories, containing information about customers, products, orders, stores, and staff.
+
+### **Problem Statement:**
+- A retail company wants to identify key factors driving its sales performance across multiple stores and product categories.
+- The challenge is to consolidate scattered CSV data into a single relational system and derive actionable insights.
+- This project delivers a data-driven dashboard that supports business decisions on revenue growth and customer engagement.
+
+**Project Details:** https://github.com/BhushanYP/Retail-Sales-Analytics-Dashboard
+
+### 2. **Grid Stability Prediction using Machine Learning**
 - This project focuses on predicting power grid stability based on sensor-like simulation data of producers and consumers in an electrical grid.
 - The goal is to anticipate unstable states before they occur — enabling early maintenance and preventing power failures.
 
@@ -30,15 +41,6 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 - This project applies machine learning to predict whether the grid is in a stable or unstable state — enabling proactive rerouting or maintenance before customer impact.
 
 **Project Details:** https://github.com/BhushanYP/Grids_Stability_ML_Model
-
-### 2. **Python**
-
-
-### 3. **SQL**
-
-
-### 4. **Tableau**
-
 
 ---
 
