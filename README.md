@@ -20,7 +20,7 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 
 ## 📊 Projects
 
-### 1. **https://github.com/BhushanYP/Retail-Sales-Analytics-Dashboard**
+### 1. **Retail Sales Analytics Dashboard**
 - This project showcases a complete data analysis pipeline — from raw CSV files to interactive dashboards — using Python, MySQL, and Tableau Public.
 - The dataset represents a multi-store retail company dealing in bikes and accessories, containing information about customers, products, orders, stores, and staff.
 
@@ -46,6 +46,6 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 
 ## 📫 Contact Me:
 - LinkedIn: https://www.linkedin.com/in/bhushan-patil-381601293/  
-- Email: patilbhushan1086.com  
+- Email: patilbhushan1086@gmail.com  
 
 ---
