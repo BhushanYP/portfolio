@@ -10,17 +10,17 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 
 ## 🛠 Skills:
 
-**Technical Skills:** Statistcs and Mathmatics.  
-**Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), Excel, Power BI, Tableau.  
-**Databases & SQL:** MySQL, PostgreSQL, SQLite.  
-**Machine Learning:** Scikit-Learn, Regression, Classification, Clustering.  
-**Other Tools:** Jupyter Notebook, Google Colab.
+- **Technical Skills:** Statistcs and Mathmatics.  
+- **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), Excel, Power BI, Tableau.  
+- **Databases & SQL:** MySQL, PostgreSQL, SQLite.  
+- **Machine Learning:** Scikit-Learn, Regression, Classification, Clustering.  
+- **Other Tools:** Jupyter Notebook, Google Colab.
 
 ---
 
 ## 📊 Projects
 
-### 1. **Retail Sales Analytics Dashboard**
+## 1. **Retail Sales Analytics Dashboard**
 - This project showcases a complete data analysis pipeline — from raw CSV files to interactive dashboards — using Python, MySQL, and Tableau Public.
 - The dataset represents a multi-store retail company dealing in bikes and accessories, containing information about customers, products, orders, stores, and staff.
 
@@ -31,7 +31,17 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 
 **Project Details:** https://github.com/BhushanYP/Retail-Sales-Analytics-Dashboard
 
-### 2. **Grid Stability Prediction using Machine Learning**
+## 2. **Hospital Readmission Analysis**
+- Hospital readmissions are a significant concern in healthcare, as they can indicate complications, poor post-discharge care, or ineffective treatment.
+- The goal of this project is to analyze hospital patient data and predict readmission risk, providing actionable insights to improve patient outcomes and reduce hospital costs.
+
+### **Problem Statement:**
+- Hospitals face high costs and penalties when patients are readmitted within 30 days of discharge.
+- These readmissions often indicate poor care coordination, unplanned complications, or lack of follow-up.
+
+**Project Details:** https://github.com/BhushanYP/Hospital_Readmissions
+
+## 3. **Grid Stability Prediction using Machine Learning**
 - This project focuses on predicting power grid stability based on sensor-like simulation data of producers and consumers in an electrical grid.
 - The goal is to anticipate unstable states before they occur — enabling early maintenance and preventing power failures.
 
