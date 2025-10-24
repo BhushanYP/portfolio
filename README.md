@@ -29,7 +29,7 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 - The challenge is to consolidate scattered CSV data into a single relational system and derive actionable insights.
 - This project delivers a data-driven dashboard that supports business decisions on revenue growth and customer engagement.
 
-**Project Details:** https://github.com/BhushanYP/Retail-Sales-Analytics-Dashboard
+**Project Details:** [](https://github.com/BhushanYP/Retail-Sales-Analytics-Dashboard)
 
 ## 2. **Hospital Readmission Analysis**
 - Hospital readmissions are a significant concern in healthcare, as they can indicate complications, poor post-discharge care, or ineffective treatment.
@@ -39,7 +39,7 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 - Hospitals face high costs and penalties when patients are readmitted within 30 days of discharge.
 - These readmissions often indicate poor care coordination, unplanned complications, or lack of follow-up.
 
-**Project Details:** https://github.com/BhushanYP/Hospital_Readmissions
+**Project Details:** [](https://github.com/BhushanYP/Hospital_Readmissions)
 
 ## 3. **Grid Stability Prediction using Machine Learning**
 - This project focuses on predicting power grid stability based on sensor-like simulation data of producers and consumers in an electrical grid.
@@ -48,9 +48,21 @@ I am a passionate **Data Analyst** with experience in Python, SQL, and data visu
 ### **Problem Statement:**
 - In modern energy grids, maintaining stability between producers (power plants) and consumers (loads) is critical.
 - Even small fluctuations in parameters like reaction time, nominal power, or price elasticity can cause instability. 
-- This project applies machine learning to predict whether the grid is in a stable or unstable state — enabling proactive rerouting or maintenance before customer impact.
+- This project applies machine learning to predict whether the grid is in a stable or unstable state.
+- Enabling proactive rerouting or maintenance before customer impact.
 
-**Project Details:** https://github.com/BhushanYP/Grids_Stability_ML_Model
+**Project Details:** [](https://github.com/BhushanYP/Grids_Stability_ML_Model)
+
+## 4. **Pokémon Team Builder**
+- This project is an Pokémon Team Builder that helps players create the most balanced and powerful teams using data-driven insights.
+- It uses machine learning to predict Pokémon battle power and recommend team members that complement each other's types — ensuring full team coverage and strategic advantage.
+
+### **Problem Statement:**
+- Building a balanced Pokémon team manually often leads to poor type coverage and weak defense against certain opponents.
+- Players struggle to predict true battle potential of Pokémon based on raw stats and types.
+- There’s no easy system that combines type synergy, power prediction, and visual analysis to recommend the most effective team.
+
+**Project Details:** [](https://github.com/BhushanYP/Pokemon-Team-Builder)
 
 ---
 
